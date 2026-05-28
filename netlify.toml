@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/img-proxy/*"
+  to = "https://i.ibb.co/:splat"
+  status = 200
+  force = true
